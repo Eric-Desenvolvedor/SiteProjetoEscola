@@ -8,3 +8,6 @@ Ver se o aluno consegue criar um mini projeto de site, usando JS, HTML e CSS.
 - HTML;
 - CSS;
 - Javascript.
+
+# Acessar site
+https://eric-desenvolvedor.github.io/SiteProjetoEscola/
